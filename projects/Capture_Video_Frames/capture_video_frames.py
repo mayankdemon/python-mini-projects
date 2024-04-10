@@ -1,7 +1,7 @@
 import os
 import shutil
 import sys
-import cv2
+import cv2 # type: ignore
 
 class FrameCapture:
     '''
